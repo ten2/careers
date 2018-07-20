@@ -16,7 +16,7 @@ https://tenten.freshteam.com/jobs
 ----------------------------------------------------- 
 ## [給開發者的求職小貼士] 
 Developer/ Designer/ Product Manager/ Marketing & Sales。 
-只要是專業人士全都適用! 
+只要是依賴於網路的專業工作人士全都適用! 
 
 ----------------------------------------------------- 
 ### 1.Taiwan 
@@ -63,4 +63,4 @@ Well, 這完全是知識經濟下的產物，我認為是真正屌的生活方�
 - https://www.youtube.com/watch?v=zjf8Qxo_tXk&t=5s 
 - https://university.tenten.co/t/topic/467 
 - https://www.workingnomads.co/jobs
-
+- 8 Ways to Make Money As a Digital Nomad - https://www.entrepreneur.com/article/307252
