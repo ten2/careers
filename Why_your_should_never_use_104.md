@@ -59,8 +59,8 @@ Developer/ Designer/ Product Manager/ Marketing & Sales。
 ### 6. 其他選項: 數位游牧民族 Digital Nomad (中國叫 "數字遊民")
 Well, 這完全是知識經濟下的產物，我認為是真正屌的生活方式! 讓你的人生真正的 Think out of the Box and Reboot!! 有興趣可以研究一下
 
-- https://www.youtube.com/watch?v=ZAhZg1oeIv8 
-- https://www.youtube.com/watch?v=zjf8Qxo_tXk&t=5s 
-- https://university.tenten.co/t/topic/467 
-- https://www.workingnomads.co/jobs
+- MY YEAR AS A DIGITAL NOMAD (2017) - https://www.youtube.com/watch?v=ZAhZg1oeIv8 
+- I tried living as a digital nomad for the day | CNBC Reports - https://www.youtube.com/watch?v=zjf8Qxo_tXk&t=5s 
+- Digital Nomad 転転 - https://university.tenten.co/t/topic/467 
+- Working Nomad - https://www.workingnomads.co/jobs
 - 8 Ways to Make Money As a Digital Nomad - https://www.entrepreneur.com/article/307252
