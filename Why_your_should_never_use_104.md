@@ -2,7 +2,7 @@
 - Full Stack Developer - https://goo.gl/BVxM7n 
 - 更多職缺請到 - http://careers.tenten.co/
 
-![](https://i.imgur.com/yhMfEgA.gif)
+![](https://i.imgur.com/luRDpid.gif)
 
 
 分隔線以下才是重點 
