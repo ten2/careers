@@ -23,6 +23,7 @@ Developer/ Designer/ Product Manager/ Marketing & Sales。
 ----------------------------------------------------- 
 ### 1.Taiwan 
 - ★ Yourator新創職涯平台 - https://www.yourator.co/ 
+- ★ CakeResume 免費線上履歷工具也推出了工作媒合的功能 - https://www.cakeresume.com/
 - ★ 碼天狗 - https://weekly.codetengu.com/ 
 - ★ Indeed - https://tw.indeed.com/ 
 - ★ 主動找出你喜歡的公司官網並從那邊寄送履歷。肯定能夠吸引 +15% 的好感度 ♥ up，如果沒有特別做 Career page 的公司我想也不會是好公司- 請自動忽略。 
