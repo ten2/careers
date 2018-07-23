@@ -16,7 +16,7 @@ https://tenten.freshteam.com/jobs
 另外還想要多嘴一下奉勸在這個知識經濟下有態度的專業人士們請不要再用 104 找工作。這曾經在 Web 1.0 時期是台灣最創新的人才媒合平台，並成功上市的科技公司，而現在 104 這平台一點都沒有跟上時代的跡象。大部分在上面的人才與工作都是在媒合那些找生產線/ 餐廳/ 用時間換取薪水的勞力型工作，或是一些剛畢業懵懵懂懂的社會新鮮人。Well, 請你們用行動 (流量) 去逼迫這個全台灣最大的求職網站作點改進 (那怕都只有一點也好)。
 
 ----------------------------------------------------- 
-## 如何有"態度"的找工作 : 給知識工作者的求職小貼士
+## 如何有"態度"的找工作 : 知識經濟下的求職者生存指南
 Developer/ Designer/ Product Manager/ Marketing & Sales。 
 只要是依賴於網路的專業工作人士全都適用! 
 
@@ -33,12 +33,13 @@ Developer/ Designer/ Product Manager/ Marketing & Sales。
 ----------------------------------------------------- 
 ### 2.Oversea (對英文有自信或是持有綠卡的請來這邊玩) 
 - ★ 工作的搜尋引擎，同時也是很多海外開發者的首選 - https://www.indeed.com/ 
-- ★ 找工作的 tripadvisor lol - https://www.glassdoor.com/index.htm 
-- ★ 高端到能夠被 hunter 挖的人生成就解鎖 +1 ♥ - https://www.linkedin.com/jobs 
-- ★ 主動找出你喜歡的公司官網並從那寄送履歷，外國幾乎所有的公司都有 Job Portal
+- ★ 找工作的 tripadvisor lol - https://www.glassdoor.com/index.htm
+- ★ 海外工作機會搜尋引擎 - https://jobs.goabroad.com/
 - ★ Google 最近推出的找工作產品 - https://careers.google.com/ 
 - ★ 好想去Google 工作！有這個特質你才可能被錄取 https://goo.gl/dCkmwr 
-- ★ Facebook - https://www.facebook.com/careers/ 
+- ★ Facebook - https://www.facebook.com/careers/
+- ★ 高端到能夠被 hunter 挖的人生成就解鎖 +1 ♥ - https://www.linkedin.com/jobs
+- ★ 主動找出你喜歡的公司官網並從那寄送履歷，外國幾乎所有的公司都有 Job Portal
 
 ----------------------------------------------------- 
 ### 3.日本 
